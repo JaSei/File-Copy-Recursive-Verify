@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JaSei/File-Copy-Recursive-Verify.svg?branch=master)](https://travis-ci.org/JaSei/File-Copy-Recursive-Verify)
 # NAME
 
 File::Copy::Recursive::Verify - data-safe recursive copy

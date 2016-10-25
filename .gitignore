@@ -29,3 +29,5 @@ cover_db/
 MYMETA.*
 
 /File-Copy-Recursive-Verify-*
+.carmel/
+cpanfile.snapshot
